@@ -16,6 +16,7 @@ I enjoy researching and implementing Pricing, Trading and Hedging strategies.
 
 # 💻 Tech Stack:
 <p align="left"> 
+<a href="https://www.rust-lang.org/pt-BR" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
