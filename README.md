@@ -2,12 +2,7 @@
 **`Quantitative Strategiest and Developer`**
 
 I'm currently working as a Software Engineer and getting my Masters in Financial Engineering at FGV.  
-I enjoy researching and implementing Pricing, Trading and Hedging strategies.
-
-
-- 🔭 I’m currently working on **an implementation of the Uncertain Volatility Model**
-- 🌱 I’m currently learning **Numerical Optimization and Machine Learning**
-- 💬 Ask me about **Python, Java, C++ and Financial Engineering**
+I enjoy researching and implementing Pricing Models, Trading and Hedging strategies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorprodrigues)
